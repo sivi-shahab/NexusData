@@ -1,0 +1,5 @@
+{
+  "name": "NexusData Manager",
+  "description": "A comprehensive dashboard to manage and monitor big data ecosystems and tools. Features real-time job tracking, service health monitoring, and AI-powered error analysis using Gemini.",
+  "requestFramePermissions": []
+}
